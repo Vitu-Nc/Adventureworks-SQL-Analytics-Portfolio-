@@ -2,10 +2,6 @@
 
 End-to-end analytics project on Microsoft's AdventureWorks2019 sample database: SQL for exploration and KPI analysis, then a 3-page Power BI dashboard with DAX measures built on the same data.
 
-## Inspiration
-
-I wanted hands-on experience that matches what data analyst job descriptions actually ask for: not isolated syntax drills, but the full workflow of exploring a dataset, answering ambiguous stakeholder-style questions, and presenting results visually. AdventureWorks is a realistic, widely recognized relational dataset, so the schema and patterns translate directly to real analyst work.
-
 ## My Stack
 
 - **Database:** SQL Server 2019, AdventureWorks2019
